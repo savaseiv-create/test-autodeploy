@@ -12,18 +12,3 @@ def about():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8080)
-```
-
-4. Clique **"Commit changes"**
-
----
-
-## 2️⃣ Ajouter requirements.txt
-
-Crée un autre fichier :
-
-1. **"Add file"** → **"Create new file"**
-2. Nom : `requirements.txt`
-3. Contenu :
-```
-flask
